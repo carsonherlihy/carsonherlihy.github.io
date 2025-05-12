@@ -6,7 +6,7 @@ background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAA
   height: 150px;
 }
 main, footer {
-  background-color: burlywood;
+  background-color: rgb(36, 82, 94);
   allign: center;
 }
 main {
